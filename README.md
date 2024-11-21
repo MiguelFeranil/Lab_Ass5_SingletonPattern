@@ -12,7 +12,7 @@ In your solution you must provide the following in your Github link account:
 -  Problem statement (description of the problem. Just copy what is stated here).
 -  UML Class Diagram
 -  Uploaded java codes for the solution.
--  
+  
 ![labsingletonpattern](https://github.com/user-attachments/assets/d1c61696-ea01-43b3-a513-30748d441ee5)
 
   
